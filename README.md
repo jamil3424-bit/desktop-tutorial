@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# SkyHigh Portfolio Project 1 – Static Website on AWS
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+My personal portfolio website, deployed on AWS using Amazon S3 for storage and CloudFront for HTTPS and global delivery.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## What I Built
+- HTML portfolio website
+- Amazon S3 static website hosting
+- GitHub repository
+- CloudFront distribution
+
+## What I Learned
+- How Amazon S3 hosts static websites
+- How GitHub stores version-controlled code
+- How CloudFront speeds up websites globally
+- Basic HTML deployment on AWS
